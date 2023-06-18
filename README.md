@@ -1,5 +1,17 @@
+![MasterHead](https://cdtpvt.com/assets/front/img/gallery/1687081381.jpg)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Ashutosh+Singh!;Working+at+Azure+Administrator...👨🏻‍💻;" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+                                                       
+- 🔭 I’m currently working on **MySkill😄**
+
 # 💫 About Me:
 💻I'm Ashutosh Singh a Azure Administrator<br>🤹‍♂️My Skill:- <br>        1.Microsoft Azure<br>        2.Azure Active Directory<br>        3. Virtual Networking, Firewalls ,VPN<br>        4.Monitoring,Azure backup<br>        5.System Administrator<br><br>Intern seeking a challenging and rewarding opportunity with  <br>growth oriented organization, which effectively utilizes and <br>nurtures my analytical and technical skills.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 ## 🌐 Socials:
